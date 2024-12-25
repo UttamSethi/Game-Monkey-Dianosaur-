@@ -26,8 +26,7 @@ This project is a fun and interactive game where players control a monkey or a d
 4. Achieve the goals and complete levels to win!
 
 ## Technologies Used
-- **Programming Language:** Mention the programming language (e.g., Python, C++, etc.).
-- **Libraries/Frameworks:** List any libraries or frameworks used (e.g., Pygame, Unity, etc.).
+- **Programming Language:** Mention the programming language (e.g., HTML,CSS,JAVASCRIPT).
 
 ## Contributing
 Contributions are welcome! To contribute:
